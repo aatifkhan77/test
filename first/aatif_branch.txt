@@ -1,2 +1,2 @@
 added a new file in second branch
-second line in first aatif nrabnch
+this is trhe second line in master branch
